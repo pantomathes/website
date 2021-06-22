@@ -10,15 +10,19 @@
                         <a href="wealth-advisor.php">Wealth Advisor</a>
                     </li>
                     <li>
-                        <a href="developer-services.php"
-                            >Developer Services</a
-                        >
+                        <a href="developer-services.php">Developer Services</a>
                     </li>
                     <li>
                         <a href="contact-us.php">Contact</a>
                     </li>
                     <li>
                         <a href="about-us.php">About Us</a>
+                    </li>
+                    <li>
+                        <a href="Privacypolicy.php">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="TermsCondition.php">Terms & Conditions</a>
                     </li>
                 </ul>
             </div>
@@ -31,7 +35,7 @@
                     <b>Phone:</b> +918264989698 | +919998931924 <br />
                     <b>Email:</b>
                     <a href="mailto:support@pantomathes.in"
-                        >support@pantomathes.in</a
+                    >support@pantomathes.in</a
                     >
                 </p>
             </div>
@@ -41,9 +45,9 @@
                     <li><a href="javascript:void(0)" class="facebook"></a></li>
                     <li><a href="javascript:void(0)" class="twitter"></a></li>
                     <li><a href="javascript:void(0)" class="googleplus"></a></li>
-                    
+
                 </ul>
-                
+
             </div>
         </div>
         <div class="row">
